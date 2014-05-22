@@ -97,6 +97,7 @@ public class User implements IUser {
 	
 	private String name;
 	private String language;
+	private String checkout;
 
 	
 	public User()
