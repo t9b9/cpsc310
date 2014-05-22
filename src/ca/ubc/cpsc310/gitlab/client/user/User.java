@@ -24,7 +24,8 @@ import java.util.ArrayList;
 //	public User()
 //	{
 //		data.put(WISHLIST, new ArrayList<Object>());
-//		data.put(SHOPPINGCART, new ArrayList<Object>());
+//		Check this out!
+                //data.put(SHOPPINGCART, new ArrayList<Object>());
 //	}
 //	
 //	@Override
