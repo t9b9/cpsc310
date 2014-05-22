@@ -1,4 +1,5 @@
 package ca.ubc.cpsc310.gitlab.client;
+//changed!!!!!!!!
 
 import java.util.ArrayList;
 import java.util.List;
@@ -59,6 +60,7 @@ public class GitLab implements EntryPoint {
 			@Override
 			public void onSuccess(List<IUser> result) {
 				Window.alert("Got list back with " +  result.size() + " entries");
+				displayUsers(result);
 				
 			}});
 	
